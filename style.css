@@ -1,9 +1,6 @@
-/*
-My css
-
-*/
-
-footer{
-    background-color: antiquewhite;
-    color: black;
+p{
+    background-color: #5333ed;
+    color: #fff;
+    padding: 30px;
+    text-align: center;
 }
